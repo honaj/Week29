@@ -1,12 +1,6 @@
 public class Purchase
 {
-    public string Name;
-    public List<Product> Products;
-    public int TotalCost => Products.Sum(product => product.price);
-
-    public Purchase(string name, List<Product> products)
-    {
-        Name = name;
-        Products = products;
-    }
+    public readonly List<Product> Products = new();
+    public int TotalCost => Products.Sum(product => product.Price);
+    public IEnumerable<Product> OrderedProducts => Products.OrderBy(product => product.Price);
 }

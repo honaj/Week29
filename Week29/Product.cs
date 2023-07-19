@@ -1,11 +1,13 @@
 public class Product
 {
-    public string Name;
-    public int price;
+    public string Name { get; }
+    public int Price { get; }
+    public string Category { get; }
 
-    public Product(string name, int price)
+    public Product(string name, int price, string category)
     {
         Name = name;
-        this.price = price;
+        Price = price;
+        Category = category;
     }
 }

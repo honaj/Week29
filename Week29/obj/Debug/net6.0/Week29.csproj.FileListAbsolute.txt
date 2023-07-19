@@ -1,0 +1,15 @@
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\Week29\Week29\bin\Debug\net6.0\Week29.exe
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\Week29\Week29\bin\Debug\net6.0\Week29.deps.json
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\Week29\Week29\bin\Debug\net6.0\Week29.runtimeconfig.json
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\Week29\Week29\bin\Debug\net6.0\Week29.dll
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\Week29\Week29\bin\Debug\net6.0\Week29.pdb
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\Week29\Week29\obj\Debug\net6.0\Week29.csproj.AssemblyReference.cache
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\Week29\Week29\obj\Debug\net6.0\Week29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\Week29\Week29\obj\Debug\net6.0\Week29.AssemblyInfoInputs.cache
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\Week29\Week29\obj\Debug\net6.0\Week29.AssemblyInfo.cs
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\Week29\Week29\obj\Debug\net6.0\Week29.csproj.CoreCompileInputs.cache
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\Week29\Week29\obj\Debug\net6.0\Week29.dll
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\Week29\Week29\obj\Debug\net6.0\refint\Week29.dll
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\Week29\Week29\obj\Debug\net6.0\Week29.pdb
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\Week29\Week29\obj\Debug\net6.0\Week29.genruntimeconfig.cache
+C:\Users\honaj\OneDrive\Dokument\Personligt\Lexicon\Net\Week29\Week29\obj\Debug\net6.0\ref\Week29.dll
