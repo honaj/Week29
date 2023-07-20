@@ -1,13 +1,13 @@
 public class Product
 {
-    public string Name { get; }
+    public string? Category { get; }
+    public string? Name { get; }
     public int Price { get; }
-    public string Category { get; }
 
-    public Product(string name, int price, string category)
+    public Product(string? category, string? name, int price)
     {
+        Category = category;
         Name = name;
         Price = price;
-        Category = category;
     }
 }
