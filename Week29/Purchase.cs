@@ -1,4 +1,6 @@
-//Class for storing a purchase of multiple products
+//Class for storing a purchase of multiple products, allowing for potentially supporting multiple purchases
+namespace Week29;
+
 public class Purchase
 {
     public readonly List<Product> Products = new();

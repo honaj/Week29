@@ -1,4 +1,6 @@
 //Class for creating a single product with category, name and price
+namespace Week29;
+
 public class Product
 {
     //All variables are read-only after initialization
