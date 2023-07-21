@@ -1,6 +1,7 @@
 //Class for creating a single product with category, name and price
 public class Product
 {
+    //All variables are read-only after initialization
     public string? Category { get; }
     public string? Name { get; }
     public double Price { get; }
